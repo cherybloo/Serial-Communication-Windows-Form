@@ -1,0 +1,11 @@
+C:\Users\laure\Downloads\shootingShit\shootingShit\bin\Debug\shootingShit.exe.config
+C:\Users\laure\Downloads\shootingShit\shootingShit\bin\Debug\shootingShit.exe
+C:\Users\laure\Downloads\shootingShit\shootingShit\bin\Debug\shootingShit.pdb
+C:\Users\laure\Downloads\shootingShit\shootingShit\obj\Debug\shootingShit.csproj.AssemblyReference.cache
+C:\Users\laure\Downloads\shootingShit\shootingShit\obj\Debug\shootingShit.csproj.SuggestedBindingRedirects.cache
+C:\Users\laure\Downloads\shootingShit\shootingShit\obj\Debug\shootingShit.Form1.resources
+C:\Users\laure\Downloads\shootingShit\shootingShit\obj\Debug\shootingShit.Properties.Resources.resources
+C:\Users\laure\Downloads\shootingShit\shootingShit\obj\Debug\shootingShit.csproj.GenerateResource.cache
+C:\Users\laure\Downloads\shootingShit\shootingShit\obj\Debug\shootingShit.csproj.CoreCompileInputs.cache
+C:\Users\laure\Downloads\shootingShit\shootingShit\obj\Debug\shootingShit.exe
+C:\Users\laure\Downloads\shootingShit\shootingShit\obj\Debug\shootingShit.pdb
